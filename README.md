@@ -6,3 +6,6 @@ For a more classier look, you should also use New York Extra Large as the main f
 Syterppuccin is a recolor of [Neptune byDevEvil99](https://github.com/DevEvil99/Neptune-Discord-Theme), and is an inspiration of [Soft Paper by Nick Milo](https://github.com/nickmilo/soft-paper), which was an inspiration from [u/SamBorgman](https://www.reddit.com/r/ObsidianMD/comments/12kfo7j/my_obsidian_setup_after_a_month_of_learning_and/) and [Anuppuccin by Anubis.](https://github.com/AnubisNekhet/AnuPpuccin) A lot of inspirations. I thought I might make this more public since light mode themes aren't common for Better Discord. 
 
 In the future, I do plan on adding more features such as smoother carat movement (if possible) and chat bubbles. Since I know 0 things about JSON, CSS, and coding in general, that will be future plans for now.
+
+## Preview
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/76c047d6-ed14-418c-9577-d2076a2d93a8" />
