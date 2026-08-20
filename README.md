@@ -1,5 +1,5 @@
 # Syterppuccin
-A nice new creamy color with a splash of color for a fresh new light mode look-- one that doesn't burn your eyes (as much) this time. Recommended with [Tabbys](https://github.com/Skamt/BDAddons/blob/984585d57d139525fec6bb78f2639a1f933bc911/Tabbys/Tabbys.plugin.js), which I also had to modify the colors of. I use it along [Collapsible UI](https://github.com/programmer2514/BetterDiscord-CollapsibleUI), to hide some unnecessary elements when not needed.
+A nice new creamy hue with a splash of color for a fresh new light mode look-- one that doesn't burn your eyes (as much) this time. Recommended with [Tabbys](https://github.com/Skamt/BDAddons/blob/984585d57d139525fec6bb78f2639a1f933bc911/Tabbys/Tabbys.plugin.js), which I also had to modify the colors of. I use it along [Collapsible UI](https://github.com/programmer2514/BetterDiscord-CollapsibleUI), to hide some unnecessary elements when not needed.
 
 For a more classier look, you should also use New York Extra Large as the main font.
 
