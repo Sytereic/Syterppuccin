@@ -8,4 +8,4 @@ Syterppuccin is a recolor of [Neptune byDevEvil99](https://github.com/DevEvil99/
 In the future, I do plan on adding more features such as smoother carat movement (if possible) and chat bubbles. Since I know 0 things about JSON, CSS, and coding in general, that will be future plans for now.
 
 ## Preview
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/76c047d6-ed14-418c-9577-d2076a2d93a8" />
+
